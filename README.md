@@ -4,10 +4,10 @@
 
 
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=%23FFFFFF&color=blue)
-![Vite](https://img.shields.io/badge/vite-pink?style=flat&logo=vite&logoColor=%23FFFFFF&color=orange)
+![Vite](https://img.shields.io/badge/vite-white?style=flat&logo=vite&logoColor=%23FFFFFF&color=E452CC)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-![imagen-general](/src/assets/Gify.JPG)
+![imagen-general](/assets/Gify.JPG)
 
 ## Link del sitio:
 
