@@ -15,7 +15,7 @@ Pagina : [gify.github.io](https://spiderpaul.github.io/gify/)
 
 ## Descripción del proyecto
 
-Este divertido proyecto fue creado para prácticar React utilizando Vite, así como el manejo de APIs de terceros.  
+Este divertido buscador de gifs animados, fue realizado para poner en práctica los conocimientos adquiridos de la librería de React, en especial el consumo de APIs de terceros.
 
 ## Tecnologías utilizadas
 
