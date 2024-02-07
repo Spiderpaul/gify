@@ -1,8 +1,29 @@
-# React + Vite
+# Gify - Buscador de gifs animados
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## React + Vite
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Static Badge](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=%23FFFFFF&color=blue) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+![imagen-general](assets/img/Gify.JPG)
+
+## Link del sitio:
+
+Pagina : [gify.github.io](https://spiderpaul.github.io/gify/)
+
+## Descripción del proyecto
+
+Este divertido proyecto fue creado para prácticar React utilizando Vite, así como el manejo de APIs de terceros.  
+
+## Tecnologías utilizadas
+
+Para la realización de este proyecto, se utilizaron las siguientes tecnologías:
+
+- **React**
+- **Vite**
+- **JavaScript**
+- **CSS**
+
+## Gracias:
+
+Gracias por visitar mi repositorio de GitHub.
