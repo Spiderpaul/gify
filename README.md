@@ -5,7 +5,7 @@
 
 ![Static Badge](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=%23FFFFFF&color=blue) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-![imagen-general](assets/img/Gify.JPG)
+![imagen-general](https://github.com/Spiderpaul/gify/blob/main/src/assets/Gify.jpg)
 
 ## Link del sitio:
 
