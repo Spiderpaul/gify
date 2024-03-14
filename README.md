@@ -7,7 +7,7 @@
 ![Vite](https://img.shields.io/badge/vite-white?style=flat&logo=vite&logoColor=%23FFFFFF&color=E452CC)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-![imagen-general](src/assets/Gify.jpg)
+https://github.com/Spiderpaul/gify/assets/87204262/39fac350-08c2-4b4a-bc01-bfed120442df
 
 ## Link del sitio:
 
